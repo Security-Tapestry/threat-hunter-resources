@@ -4,6 +4,7 @@ categories: [Security Advisory]
 tags: [security,advisory,3cx,app,installer,research,campaign]
 render_with_liquid: false
 ---
+<!-- {% include emergent-banner.html %} -->
 <img src="https://raw.githubusercontent.com/Security-Tapestry/security-tapestry.github.io/main/assets/img/emergent-threat-detail-banner.png" style="margin: 0 auto; width: 100%;">
 
 
