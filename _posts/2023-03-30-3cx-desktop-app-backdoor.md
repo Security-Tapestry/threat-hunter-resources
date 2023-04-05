@@ -5,7 +5,7 @@ tags: [security,advisory,3cx,app,installer,research,campaign]
 render_with_liquid: false
 ---
 <!-- {% include emergent-banner.html %} -->
-<img src="https://raw.githubusercontent.com/Security-Tapestry/security-tapestry.github.io/main/assets/img/emergent-threat-detail-banner.png" style="margin: 0 auto; width: 100%;">
+<img src="/assets/img/emergent-threat-detail-banner.png" style="margin: 0 auto; width: 100%;">
 
 
 At Security Tapestry, we are committed to providing you with the latest information on cybersecurity threats. We would like to inform you about a recent development concerning the 3CX Desktop App.
@@ -34,4 +34,4 @@ Stay safe and secure,
 The Security Tapestry Team
 
 
-<img src="https://raw.githubusercontent.com/Security-Tapestry/security-tapestry.github.io/main/assets/img/emergent-threat-detail-banner.png" style="margin: 0 auto; width: 100%;">
+<img src="/assets/img/emergent-threat-detail-banner.png" style="margin: 0 auto; width: 100%;">
