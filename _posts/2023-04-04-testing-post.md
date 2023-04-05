@@ -1,7 +1,7 @@
 ---
 title: Testing Post
 author: Security-Tapestry
-categories: [Testing,Tutorial]
+categories: [Testing]
 tags: [testing]
 render_with_liquid: false
 ---
