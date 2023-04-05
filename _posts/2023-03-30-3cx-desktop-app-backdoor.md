@@ -1,6 +1,5 @@
 ---
 title: Security Advisory - Backdoored 3CXDesktopApp Installer in Active Threat Campaign
-author: Threat Hunting Team
 categories: [Security Advisory]
 tags: [security,advisory,3cx,app,installer,research,campaign]
 render_with_liquid: false

@@ -39,8 +39,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Security Tapestry
-  email: info@securitytapestry.com # change to your email address
+  name: Security Tapestry Threat Hunting Team
+  email: threat-hunting@securitytapestry.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/SecTapestry # change to your twitter homepage
