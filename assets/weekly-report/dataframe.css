@@ -23,5 +23,5 @@
 }
 .table-container {
     width: 100%;
-   overflow: scroll;
+   /* overflow: scroll; */
 }
