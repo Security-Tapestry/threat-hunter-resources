@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A Resource Blog for Security Tapestry Customers
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://security-tapestry.github.io"
+url: ""
 
 github:
   username: Security-Tapestry # change to your github username
