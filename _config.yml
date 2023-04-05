@@ -20,7 +20,7 @@ timezone: US/Central
 
 title: Security Tapestry Blog # the main title
 
-tagline: For our Cuustomers # it will display as the sub-title
+tagline: For our Customers # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A Resource Blog for Security Tapestry Customers
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/chess-knight.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
