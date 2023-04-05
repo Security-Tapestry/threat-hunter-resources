@@ -1,6 +1,6 @@
 ---
 title: Testing Post
-author: Threat Hunting Team
+author: Security-Tapestry
 categories: [Testing,Tutorial]
 tags: [testing]
 render_with_liquid: false

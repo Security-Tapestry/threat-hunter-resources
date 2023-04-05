@@ -1,5 +1,7 @@
 # The Site Configuration
 
+# Custom Directives
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
