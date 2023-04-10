@@ -5,6 +5,8 @@ tags: [tutorial,guide,cyberchef,ossec,quickstart,tool,webapp]
 render_with_liquid: false
 ---
 
+![CyberChef Logo](/assets/img/cyberchef-128x128.png "CyberChef Logo")
+
 ## Introduction
 CyberChef is a powerful and versatile tool for data analysis and manipulation, particularly in the field of cybersecurity. It was developed by GCHQ (the UK's Government Communications Headquarters) and released as open source software in 2016. The tool has a user-friendly interface and supports a wide range of data formats and operations, making it a popular choice for analysts and developers.
 
