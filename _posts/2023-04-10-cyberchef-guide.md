@@ -1,6 +1,5 @@
 ---
 title: CyberChef QuickStart Guide
-author: Security-Tapestry
 categories: [Tutorials,CyberChef]
 tags: [tutorial,guide,cyberchef,ossec,quickstart,tool,webapp]
 render_with_liquid: false
