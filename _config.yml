@@ -22,10 +22,10 @@ timezone: US/Central
 
 title: Security Tapestry Blog # the main title
 
-tagline: For our Customers # it will display as the sub-title
+tagline: For Threat Hunters # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A Resource Blog for Security Tapestry Customers
+  A Resource Blog for Security Tapestry Threat Huntera
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
