@@ -1,0 +1,8 @@
+---
+icon: fas fa-screwdriver-wrench
+order: 5
+---
+
+## CyberChef
+
+[![CyberChef Logo](/assets/img/cyberchef.png)](https://security-tapestry.github.io/CyberChef/)
