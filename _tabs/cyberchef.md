@@ -5,4 +5,6 @@ order: 5
 
 ## CyberChef
 
+[CyberChef QuickStart Guide](/posts/cyberchef-guide)
+
 [![CyberChef Logo](/assets/img/cyberchef.png)](https://security-tapestry.github.io/CyberChef/)
